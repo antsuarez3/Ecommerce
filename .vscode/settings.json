@@ -1,8 +1,11 @@
 {
   "cSpell.words": [
+    "clsx",
+    "datasource",
     "hookform",
     "lucide",
     "nextjs",
+    "prismadb",
     "trpc",
     "zustand"
   ]
