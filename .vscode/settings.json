@@ -1,5 +1,6 @@
 {
   "cSpell.words": [
+    "cloudinary",
     "clsx",
     "cmdk",
     "datasource",
@@ -8,6 +9,7 @@
     "nextjs",
     "prismadb",
     "trpc",
+    "zrhz",
     "zustand"
   ]
 }
