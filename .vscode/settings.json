@@ -8,6 +8,7 @@
     "lucide",
     "nextjs",
     "prismadb",
+    "tanstack",
     "trpc",
     "zrhz",
     "zustand"
