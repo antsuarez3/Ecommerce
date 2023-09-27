@@ -8,12 +8,12 @@ export type ProductColumn = {
   id: string
   name: string
   price: string
-  category: string
   size: string
+  category: string
   color: string
-  createdAt: string
   isFeatured: boolean
   isArchived: boolean
+  createdAt: string
 }
 
 export const columns: ColumnDef<ProductColumn>[] = [
