@@ -150,7 +150,7 @@ export const CategoryForm: React.FC<CategoryFormProps> = ({
                   <FormMessage />
                 </FormItem>
               )}
-            />
+            />  
             <FormField
               control={form.control}
               name='billboardId'
